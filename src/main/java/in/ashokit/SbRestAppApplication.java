@@ -9,7 +9,7 @@ public class SbRestAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestAppApplication.class, args);
 		int i  = 30;
-		int j = 40;
+		int j = 60;
 	}
 
 }
