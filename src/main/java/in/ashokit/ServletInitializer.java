@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		int i = 30;
+		int i = 90;
 		int j = 40;
 		int sum = i + j;
 		System.out.println("Sum: " + sum);
